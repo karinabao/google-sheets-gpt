@@ -2,6 +2,7 @@
 
 ## Usage
 Once you complete the setup steps, you can use the formula =getDefinition(string or cellReference) as if it were any Google Sheets formula
+<br>
 <img width="394" alt="image" src="https://github.com/karinabao/google-sheets-gpt/assets/39714767/f3c3845a-b6d3-48de-a698-cc286da50964">
 <img width="941" alt="image" src="https://github.com/karinabao/google-sheets-gpt/assets/39714767/b78c743b-3685-4683-91d5-53ea2a03e927">
 
